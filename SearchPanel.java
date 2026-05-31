@@ -1,5 +1,4 @@
 // SearchPanel.java
-// Team Member: Krishni Rastogi (24022510)
 // Swing Search Panel
 
 import javax.swing.*;
