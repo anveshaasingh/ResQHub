@@ -1,5 +1,4 @@
 // AlertPanel.java
-// Team Member: Sejal Singh (240221951)
 // Swing Alert Panel - shows hospitals with critically low resources
 
 import javax.swing.*;
