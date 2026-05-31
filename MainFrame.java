@@ -1,5 +1,4 @@
 // MainFrame.java
-// Team Member: Sejal Singh (240221951)
 // Main window with role-based Swing navigation
 
 import javax.swing.*;
