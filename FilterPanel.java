@@ -1,5 +1,4 @@
 // FilterPanel.java
-// Team Member: Krishni Rastogi (24022510)
 // Swing Filter Panel - filter hospitals by city
 
 import javax.swing.*;
