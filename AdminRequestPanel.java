@@ -1,5 +1,4 @@
 // AdminRequestPanel.java
-// Team Member: Sejal Singh (240221951)
 // Swing Admin panel - view requests, assign hospitals filtered by city AND resource
 
 import javax.swing.*;
