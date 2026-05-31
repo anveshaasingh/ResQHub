@@ -1,5 +1,4 @@
 // DashboardPanel.java
-// Team Member: Anvesha Singh (24022980)
 // Swing Dashboard with stat cards and hospital table
 
 import javax.swing.*;
