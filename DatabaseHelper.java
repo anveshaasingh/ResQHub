@@ -1,5 +1,4 @@
 // DatabaseHelper.java
-// Team Member: Krishni Rastogi (24022510)
 // Handles all MySQL database operations including resource requests
 
 import java.sql.*;
