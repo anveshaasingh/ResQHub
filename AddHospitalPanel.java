@@ -1,5 +1,4 @@
 // AddHospitalPanel.java
-// Team Member: Sejal Singh (240221951)
 // Swing Add Hospital form for ADMIN
 
 import javax.swing.*;
