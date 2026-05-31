@@ -1,5 +1,4 @@
 // RequestPanel.java
-// Team Member: Anvesha Singh (24022980)
 // Swing request form - USER raises resource requests
 
 import javax.swing.*;
