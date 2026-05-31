@@ -1,5 +1,4 @@
 // ExportHelper.java
-// Team Member: Krishni Rastogi (24022510)
 // Exports hospital resource report to a TXT file - USER only
 
 import javax.swing.*;
