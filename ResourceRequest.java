@@ -1,5 +1,4 @@
 // ResourceRequest.java
-// Team Member: Anvesha Singh (24022980)
 // Model class for resource requests raised by USER
 
 public class ResourceRequest {
