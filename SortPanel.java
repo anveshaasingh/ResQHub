@@ -1,5 +1,4 @@
 // SortPanel.java
-// Team Member: Krishni Rastogi (24022510)
 // Swing Sort Panel - sort hospitals by resource availability
 
 import javax.swing.*;
